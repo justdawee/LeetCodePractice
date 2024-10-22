@@ -34,5 +34,5 @@ Here is a list of the major topics covered in this repository:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/leetcode-top-150-csharp.git
+   git clone https://github.com/justdawee/leetcode-top-150-csharp.git
    cd leetcode-top-150-csharp
